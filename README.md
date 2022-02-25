@@ -1,4 +1,4 @@
-# cloud inventory
+# books-app
 
 ## Project setup
 ```
